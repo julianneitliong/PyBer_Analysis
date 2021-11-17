@@ -1,2 +1,2 @@
 # PyBer_Analysis
-working with python and matplotlib
+working with python and matlplotlib
